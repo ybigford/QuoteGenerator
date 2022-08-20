@@ -15,8 +15,8 @@ let quotes =
         '"The secret of success is to do the common thing uncommonly well." - John D. Rockefeller Jr.',
         '"If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn',
         '"You miss 100% of the shots you do not take." - Wayne Gretzky',
-        ' "Believe you can and you are halfway there." - Theodore Roosevelt', 
-        
+        '"Believe you can and you are halfway there." - Theodore Roosevelt', 
+        '"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us" - Helen Keller',
 
 
     ];

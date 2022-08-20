@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Mouse+Memoirs&family=Rubik:wght@600&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background-image: background-color: #e5e3db;
+    background-image: background-color: #DFDBE5;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='Artboard-5' fill='%236a998d' fill-opacity='0.16' fill-rule='nonzero'%3E%3Cpath d='M6 18h12V6H6v12zM4 4h16v16H4V4z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    color: #000;
+    font-family: : Montserrat, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.quote-container {
+    width: auto;
+    max-width: 900px;
+    padding: 20px 30px;
+    border-radius: 30px;
+    background-color: #B5DEFF;
+    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.button-container {
+    margin-top: 15px;
+    position: relative;
+    right: 200;
+    bottom: 200;
+}
+
+button {
+
+    cursor: pointer;
+    font-size: 1rem;
+    height: 2rem;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #333;
+    outline: none;
+    padding: 0.5rem 1.8rem;
+    box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
+}
+
+button:hover {
+    filter: brightness(150%);
+}
+
+button:active {
+    transform: translate(0, 0.3rem);
+    box-shadow: 0 0.1rem rgba(255, 255, 255, 0.65);
+}
+
+.quote {
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+
+.signature {
+    font-size: 0.7rem;
+    font-family: Montserrat, sans-serif;
+    padding-top: 50px;
+
+}
+
+/* Media Query: tablet or smaller */
+@media scree and (max-width: 1000px) {
+    .quote-container {
+        margin: auto 10px;
+    }
+
+    .quote-text {
+        font-size: 2.5rem;
+    }
+
+}
+
+    

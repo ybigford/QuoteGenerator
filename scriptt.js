@@ -16,7 +16,8 @@ let quotes =
         '"If you are not willing to risk the usual, you will have to settle for the ordinary." - Jim Rohn',
         '"You miss 100% of the shots you do not take." - Wayne Gretzky',
         '"Believe you can and you are halfway there." - Theodore Roosevelt', 
-        '"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us" - Helen Keller',
+        '"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us." - Helen Keller',
+        '"Yesterday is a history, tomorrow is a mystery, but today is a gift. Thats why we call it the present." - Winnie the Pooh',
 
 
     ];
